@@ -12,22 +12,6 @@ Meu foco agora é conquistar um estágio onde eu possa aprender com um time insp
 
 
 
-<p align="left">
-    <a href="mailto:eng.mafee@gmail.com">
-        <img 
-            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
-            alt="Email"
-        />
-        </a>
-    <a href="www.linkedin.com/in/mftexc">
-        <img
-            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-    </a>    
-</p>
-
----
-
 ### 🤖 Linguagens e Tecnologias
 [![My Skills](https://skillicons.dev/icons?i=java,python,postgresql,mysql,nodejs,figma,js,html,css)](https://skillicons.dev)
 
