@@ -13,7 +13,7 @@ Meu foco agora é conquistar um estágio onde eu possa aprender com um time insp
 
 
 ### 🤖 Linguagens e Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=java,python,postgresql,mysql,nodejs,figma,js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,python,postgresql,mysql,nodejs,js)](https://skillicons.dev)
 
 
 
